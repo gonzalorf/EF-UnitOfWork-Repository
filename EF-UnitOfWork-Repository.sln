@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-UnitOfWork-Repository", "EF-UnitOfWork-Repository\EF-UnitOfWork-Repository.csproj", "{B64784BC-D602-40CE-8347-48C255299708}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-UnitOfWork-Repository", "EF-UnitOfWork-Repository.WebApi\EF-UnitOfWork-Repository.csproj", "{B64784BC-D602-40CE-8347-48C255299708}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-UnitOfWork-Repository.Domain", "EF-UnitOfWork-Repository.Domain\EF-UnitOfWork-Repository.Domain.csproj", "{8FA3E02F-A8C7-4950-AA1B-B8F3AE75B4AC}"
 EndProject
